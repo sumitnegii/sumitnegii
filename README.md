@@ -75,8 +75,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitnegii&theme=react" />
 </p>
 
+<!-- LeetCode Stats -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumitnegii?theme=light&font=Roboto&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/sumit_negi02?theme=light&font=Roboto&ext=contest" />
 </p>
 
 ---
