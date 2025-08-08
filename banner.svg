@@ -23,7 +23,7 @@
   <!-- Typing animation text -->
   <text x="360" y="188" font-family="Courier New, monospace" font-size="20" fill="white" font-weight="600">
     <tspan>
-      <animate attributeName="textLength" from="0" to="320" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="textLength" from="0" to="320" dur="20s" repeatCount="indefinite" />
       █████   █   █  █   █  █████    █████  █   █  ████   █████  █   █
 █       █   █  ██  █  █        █      ██  █  █   █  █   █  ██  █
 █       █   █  █ █ █  █        █      █ █ █  █   █  █   █  █ █ █
