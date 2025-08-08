@@ -1,4 +1,6 @@
 <img src="./banner.svg" alt="Sumit Singh — Banner" />
+![Sumit Singh Banner](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/banner.svg)
+
 
 
 ## 🚀 About Me
