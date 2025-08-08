@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sumit Singh banner">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#6C63FF"/>
+    </linearGradient>
+
+    <!-- Mask for typing animation -->
+    <mask id="revealMask">
+      <rect id="maskRect" x="350" y="165" width="0" height="36" fill="white" rx="3" />
+    </mask>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="300" fill="url(#grad)" rx="20" />
+
+  <!-- Left circle initials -->
+  <circle cx="150" cy="150" r="80" fill="rgba(255,255,255,0.1)" stroke="white" stroke-opacity="0.15"/>
+  <text x="150" y="165" font-family="Verdana, Arial, sans-serif" font-size="44" text-anchor="middle" fill="white" font-weight="700">SS</text>
+
+  <!-- Name -->
+  <text x="320" y="100" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="40" fill="white" font-weight="700">
+    Sumit <tspan fill="#FFD166">Singh</tspan>
+  </text>
+
+  <!-- Static subtitle -->
+  <text x="320" y="140" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="white" fill-opacity="0.85">
+    MCA Student • Problem Solver • Cloud & ML Enthusiast
+  </text>
+
+  <!-- Typing box -->
+  <rect x="320" y="160" width="750" height="40" rx="8" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.12)" />
+
+  <!-- Typing cursor -->
+  <rect id="cursor" x="360" y="165" width="3" height="30" rx="1" fill="white">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Phrase 1 -->
+  <text x="360" y="188" font-family="Courier New, monospace" font-size="20" fill="white" font-weight="600" mask="url(#revealMask)">
+    MCA Student
+  </text>
+
+  <!-- Phrase 2 -->
+  <text x="360" y="188" font-family="Courier New, monospace" font-size="20" fill="white" font-weight="600" mask="url(#revealMask)">
+    Problem Solver
+  </text>
+
+  <!-- Phrase 3 -->
+  <text x="360" y="188" font-family="Courier New, monospace" font-size="20" fill="white" font-weight="600" mask="url(#revealMask)">
+    DSA & Competitive Programmer
+  </text>
+
+  <!-- Mask animation for typing effect -->
+  <!-- Phrase 1 -->
+  <animate xlink:href="#maskRect" attributeName="width" from="0" to="200" begin="0s" dur="1.5s" fill="freeze" />
+  <animate xlink:href="#maskRect" attributeName="width" from="200" to="200" begin="1.5s" dur="1.2s" fill="freeze" />
+  <animate xlink:href="#maskRect" attributeName="width" from="200" to="0" begin="2.7s" dur="0.3s" fill="freeze" />
+
+  <!-- Phrase 2 -->
+  <animate xlink:href="#maskRect" attributeName="width" from="0" to="200" begin="3s" dur="1.5s" fill="freeze" />
+  <animate xlink:href="#maskRect" attributeName="width" from="200" to="200" begin="4.5s" dur="1.2s" fill="freeze" />
+  <animate xlink:href="#maskRect" attributeName="width" from="200" to="0" begin="5.7s" dur="0.3s" fill="freeze" />
+
+  <!-- Phrase 3 -->
+  <animate xlink:href="#maskRect" attributeName="width" from="0" to="320" begin="6s" dur="1.5s" fill="freeze" />
+  <animate xlink:href="#maskRect" attributeName="width" from="320" to="320" begin="7.5s" dur="1.5s" fill="freeze" />
+  <animate xlink:href="#maskRect" attributeName="width" from="320" to="0" begin="9s" dur="0.3s" fill="freeze" />
+
+  <!-- Loop -->
+  <animate xlink:href="#maskRect" attributeName="width" from="0" to="0" begin="9.3s" dur="0.01s" fill="freeze" repeatCount="indefinite" />
+
+  <!-- Footer tagline -->
+  <text x="320" y="240" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="white" fill-opacity="0.75">
+    ⚡ "Code is like humor. When you have to explain it, it's bad." ⚡
+  </text>
+</svg>
