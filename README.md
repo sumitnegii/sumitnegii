@@ -52,8 +52,7 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <p align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=150&section=footer" /> 
   <i>⚡ "Code is like humor. When you have to explain it, it’s bad." ⚡</i>
-</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=150&section=footer" />
 </p>
