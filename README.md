@@ -1,96 +1,92 @@
-# 👋 Hi, I'm Sumit Singh | Aspiring Full-Stack Developer & Problem Solver
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm Sumit Singh</h1>
+<h3 align="center">💻 MCA Student | 🚀 Aspiring Full-Stack Developer | 🌍 Dehradun, India</h3>
 
-🎓 **MCA Student** @ Graphic Era Deemed University (2024–2026)  
-💼 **Ex-Recruiter turned Tech Enthusiast** | 3 yrs @ Afcons Infrastructure Ltd  
-📍 Dehradun, Uttarakhand | 🌐 [Portfolio](your-portfolio-link)  
-📫 **Reach out:** negisumit308@gmail.com | [LinkedIn](https://linkedin.com/in/sumitnegi) | [GitHub](https://github.com/sumitnegii)
-
----
-
-## 🚀 Technical Arsenal
-
-**💻 Languages:**  
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-
-**🗃️ Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**☁️ Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-
-**🛠️ Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap)
+<p align="center">
+  <a href="mailto:negisumit308@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sumitnegi"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sumitnegii"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🎓 Education
-
-**📌 Master of Computer Applications (MCA)**  
-*Graphic Era Deemed University (2024–2026)*  
-🔹 *Specialization:* Cloud Computing & Machine Learning  
-🔹 *Key Courses:* Advanced DSA, Distributed Systems, AI/ML Fundamentals  
-
-**📌 B.Sc. in Information Technology**  
-*HNB Garhwal University (2017–2020)*  
-🔹 *Thesis:* "E-Commerce Security Protocols Analysis"
+## 🚀 About Me
+- 🎓 **MCA Student** at Graphic Era Deemed University *(2024–2026)*
+- 💼 **3 years** of professional experience as a **Recruiter** at Afcons Infrastructure Ltd  
+- 🌱 Currently learning **MERN Stack**, **Machine Learning**, and **Cloud Technologies**
+- 💡 Passionate about building scalable applications & solving real-world problems  
+- ⚡ Fun fact: I debug my code faster with coffee ☕
 
 ---
 
-## 💼 Professional Journey
+## 🛠 Tech Stack
 
-**🛠️ Afcons Infrastructure Ltd | Recruiter (Nov 2021 – May 2024)**  
-- Automated HR workflows using **SAP**, reducing processing time by 35%  
-- Implemented **TCS iON** digital onboarding system for 500+ hires  
-- Led cross-functional tech recruitment for infrastructure projects  
-
-*Tech Exposure:* SAP HCM, TCS iON RIM, HR Analytics
-
----
-
-## 🔥 Spotlight Projects
-
-### 🚨 Emergency Response System (MERN Stack)
-**🏆 Featured Innovation | 70% Complete**  
-- Integrated real-time geolocation tracking with **40% faster** emergency alerts  
-- Designed role-based access control for 3 user tiers (victims/responders/admins)  
-- **Tech:** React.js, Node.js, Firebase FCM, WebSocket  
-
-[![View Demo](https://img.shields.io/badge/View-Demo-2CA5E0)](your-demo-link)
-
-### 🤖 AI-Powered Face Recognition  
-**🎯 95% Accuracy | TensorFlow.js Implementation**  
-- Developed attendance system with liveness detection  
-- Optimized model for low-light conditions  
-- **Tech Stack:** face-api.js, Express.js, JWT Auth  
-
-### 💪 Hetvik Gym Portal  
-**🚀 90+ Lighthouse Score**  
-- Built responsive interface with dynamic class scheduling  
-- Integrated Firebase Auth with email/SMS notifications  
-- Reduced bounce rate by 25% through UX improvements  
+<p align="center">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certs
+## 📚 Education
+- 🎓 **Master of Computer Applications (MCA)** – Graphic Era Deemed University *(2024–2026)*  
+  *Relevant Coursework:* OOP, DBMS, DSA, OS, Computer Networks, Machine Learning  
 
-- 🥇 **Google Data Analytics Certified** | Coursera (2023)  
-- 🥈 **Python for AI/ML Specialization** | Udemy (2024)  
-- 🏅 **Microsoft Management Excellence** | LinkedIn Learning  
-- 📈 **Top 10%** in CodeChef Starters (2024)  
-
----
-
-## 📊 Open-Source Footprint
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sumitnegii&theme=radical)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnegii&layout=compact&theme=radical)](https://github.com/sumitnegii)
+- 🎓 **B.Sc. IT** – Hemwati Nandan Bahuguna Garhwal University *(2017–2020)*  
 
 ---
 
-## 🌟 Beyond Code
+## 💼 Work Experience
+**Afcons Infrastructure Ltd, Delhi** *(Nov 2021 – May 2024)*  
+*Recruiter*  
+- Managed IT-related tasks & payroll processes using SAP  
+- Streamlined onboarding through TCS iON & SAP, improving efficiency
 
-- 🎤 Public Speaker at Tech Meetups  
-- 📝 Writing tech blogs on Medium  
-- 🧠 Currently learning: Kubernetes & Microservices  
+---
 
-💡 *"Turning complex problems into elegant solutions through code and collaboration"*
+## 🚀 Featured Projects
+
+### 🆘 **Crowdsourced Emergency Response Platform** *(70% Complete)*
+**Tech:** MERN, Firebase, FCM, Geolocation, REST APIs, WebSockets  
+- Built a real-time emergency system with geolocation & push notifications, improving response by **30%**  
+- Reduced notification latency by **40%** with WebSocket optimization  
+- Implemented secure authentication & role-based access
+
+### 👤 **Face Recognition System**
+**Tech:** JavaScript, face-api.js, TensorFlow.js, Node.js, MySQL  
+- 95% accuracy for real-time facial recognition  
+- Web-based authentication & attendance tracking with MFA
+
+### 🏋️ **Hetvik The Gym – Website**
+**Tech:** HTML, CSS, JavaScript, Firebase  
+- Responsive gym website with membership plans & dynamic schedules  
+- Achieved **90+ Lighthouse performance score** with SEO optimization
+
+---
+
+## 📜 Certifications
+- 🐍 Python – Udemy  
+- 📊 Google Data Analytics – Coursera  
+- 🏆 Management Excellence at Microsoft Model – LinkedIn  
+- 🤝 Customer Relationship Management – Great Learning  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitnegii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnegii&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it’s bad." ⚡</i>
+</p>
