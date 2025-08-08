@@ -1,4 +1,5 @@
-![Sumit Singh Banner](https://raw.githubusercontent.com/sumitnegii/sumitnegii/main/banner.svg)
+<img src="./banner.svg" alt="Sumit Singh — Banner" />
+
 
 
 
