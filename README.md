@@ -67,19 +67,3 @@
 </div>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 2rem 0;">
-
-### Emergency Response Platform
-```mermaid
-graph LR
-    P[Problem] -->|Slow emergency response| S[Solution]
-    S --> G[Geolocation Tracking]
-    S --> W[WebSocket Alerts]
-    S --> R[Role-based Access]
-    G --> F[30% Faster Response]
-    W --> L[40% Less Latency]
