@@ -1,6 +1,12 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm Sumit Singh</h1>
-<h3 align="center">💻 MCA Student | 🚀 Aspiring Full-Stack Developer | 🌍 Dehradun, India</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey there, I'm Sumit Singh
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=600&lines=MCA+Student+(2024–2026);Problem+Solver;Passionate+Tech+Learner;Always+Improving+Every+Day" />
+</h3>
 
 <p align="center">
   <a href="mailto:negisumit308@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,10 +18,10 @@
 
 ## 🚀 About Me
 - 🎓 **MCA Student** at Graphic Era Deemed University *(2024–2026)*
-- 💼 **3 years** of professional experience as a **Recruiter** at Afcons Infrastructure Ltd  
-- 🌱 Currently learning **MERN Stack**, **Machine Learning**, and **Cloud Technologies**
-- 💡 Passionate about building scalable applications & solving real-world problems  
-- ⚡ Fun fact: I debug my code faster with coffee ☕
+- 💼 3 years in a professional environment at **Afcons Infrastructure Ltd**
+- 🧠 Strong in **Problem Solving**, **Data Structures**, and **System Design**
+- 🌱 Currently learning **MERN Stack**, **Machine Learning**, and **Cloud Services**
+- ☕ Coffee-powered debugging sessions are my specialty
 
 ---
 
@@ -36,56 +42,56 @@
 
 ## 📚 Education
 - 🎓 **Master of Computer Applications (MCA)** – Graphic Era Deemed University *(2024–2026)*  
-  *Relevant Coursework:* OOP, DBMS, DSA, OS, Computer Networks, Machine Learning  
-
 - 🎓 **B.Sc. IT** – Hemwati Nandan Bahuguna Garhwal University *(2017–2020)*  
 
 ---
 
 ## 💼 Work Experience
 **Afcons Infrastructure Ltd, Delhi** *(Nov 2021 – May 2024)*  
-*Recruiter*  
 - Managed IT-related tasks & payroll processes using SAP  
-- Streamlined onboarding through TCS iON & SAP, improving efficiency
+- Improved onboarding via TCS iON & SAP
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🆘 **Crowdsourced Emergency Response Platform** *(70% Complete)*
-**Tech:** MERN, Firebase, FCM, Geolocation, REST APIs, WebSockets  
-- Built a real-time emergency system with geolocation & push notifications, improving response by **30%**  
-- Reduced notification latency by **40%** with WebSocket optimization  
-- Implemented secure authentication & role-based access
+### 🆘 Crowdsourced Emergency Response Platform *(70% Complete)*
+- MERN, Firebase, WebSockets — Real-time alerts & geolocation  
+- 30% faster response times, 40% reduced latency
 
-### 👤 **Face Recognition System**
-**Tech:** JavaScript, face-api.js, TensorFlow.js, Node.js, MySQL  
-- 95% accuracy for real-time facial recognition  
-- Web-based authentication & attendance tracking with MFA
+### 👤 Face Recognition System
+- JavaScript, TensorFlow.js — 95% accuracy  
+- Multi-factor authentication & secure access
 
-### 🏋️ **Hetvik The Gym – Website**
-**Tech:** HTML, CSS, JavaScript, Firebase  
-- Responsive gym website with membership plans & dynamic schedules  
-- Achieved **90+ Lighthouse performance score** with SEO optimization
+### 🏋️ Hetvik The Gym – Website
+- HTML, CSS, Firebase — SEO-optimized, 90+ Lighthouse score
 
 ---
 
 ## 📜 Certifications
-- 🐍 Python – Udemy  
-- 📊 Google Data Analytics – Coursera  
-- 🏆 Management Excellence at Microsoft Model – LinkedIn  
-- 🤝 Customer Relationship Management – Great Learning  
+- Python – Udemy  
+- Google Data Analytics – Coursera  
+- Management Excellence – LinkedIn  
+- Customer Relationship Management – Great Learning  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitnegii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnegii&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitnegii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitnegii&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumitnegii&theme=onedark&row=1&column=6" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it’s bad." ⚡</i>
