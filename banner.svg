@@ -21,9 +21,7 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="320" y="140" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="white" fill-opacity="0.85">
-    MCA Student • Problem Solver • Cloud & ML Enthusiast
-  </text>
+
 
   <!-- Typing box placeholder (static text) -->
   <rect x="320" y="160" width="750" height="40" rx="8" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.12)" />
