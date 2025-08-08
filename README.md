@@ -1,61 +1,47 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&height=70&lines=Hey+there!+I'm+Sumit+Singh;MCA+Student;Problem+Solver;Cloud+%26+ML+Enthusiast;DSA+%26+Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sumit Singh banner">
   <defs>
-    <!-- Gradient -->
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#36BCF7"/>
-      <stop offset="1" stop-color="#6C63FF"/>
+    <!-- Background gradient -->
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#6C63FF"/>
     </linearGradient>
 
-    <!-- Soft inner gradient -->
-    <linearGradient id="g2" x1="0" x2="1">
-      <stop offset="0" stop-color="rgba(255,255,255,0.06)"/>
-      <stop offset="1" stop-color="rgba(255,255,255,0)"/>
-    </linearGradient>
-
-    <!-- Mask for typing reveal -->
+    <!-- Mask for typing animation -->
     <mask id="revealMask">
-      <!-- white shows visible area in mask -->
       <rect id="maskRect" x="350" y="165" width="0" height="36" fill="white" rx="3" />
     </mask>
-
-    <!-- Fonts fallback: GitHub will use system fonts -->
   </defs>
 
-  <!-- background rounded card -->
-  <rect x="10" y="10" width="1180" height="280" rx="18" fill="url(#g1)" />
-  <!-- subtle overlay for depth -->
-  <rect x="10" y="10" width="1180" height="280" rx="18" fill="url(#g2)" />
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="300" fill="url(#grad)" rx="20" />
 
-  <!-- left circle with initials -->
-  <g transform="translate(40,55)">
-    <circle cx="80" cy="80" r="80" fill="#ffffff10" stroke="white" stroke-opacity="0.12" />
-    <text x="80" y="100" font-family="Verdana, Arial, sans-serif" font-size="44" text-anchor="middle" fill="white" fill-opacity="0.95" font-weight="700">SS</text>
-  </g>
+  <!-- Left circle initials -->
+  <circle cx="150" cy="150" r="80" fill="rgba(255,255,255,0.1)" stroke="white" stroke-opacity="0.15"/>
+  <text x="150" y="165" font-family="Verdana, Arial, sans-serif" font-size="44" text-anchor="middle" fill="white" font-weight="700">SS</text>
 
-  <!-- Name and subtitle -->
-  <text x="320" y="100" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="40" fill="white" font-weight="700" letter-spacing="0.5">
+  <!-- Name -->
+  <text x="320" y="100" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="40" fill="white" font-weight="700">
     Sumit <tspan fill="#FFD166">Singh</tspan>
   </text>
 
-  <text x="320" y="142" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="white" fill-opacity="0.9">
+  <!-- Static subtitle -->
+  <text x="320" y="140" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="white" fill-opacity="0.85">
     MCA Student • Problem Solver • Cloud & ML Enthusiast
   </text>
 
-  <!-- Typing box (static rounded rectangle background) -->
-  <g transform="translate(320,160)">
-    <rect x="0" y="0" width="760" height="64" rx="10" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.06)" />
-    <!-- left small indicator dot -->
-    <circle cx="22" cy="32" r="6" fill="#36BCF7" />
-  </g>
+  <!-- Typing box -->
+  <rect x="320" y="160" width="750" height="40" rx="8" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.12)" />
+
+  <!-- Typing cursor -->
+  <rect id="cursor" x="360" y="165" width="3" height="30" rx="1" fill="white">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Phrase 1 -->
+  <text x="360" y="188" font-family="Courier New, monospace"
 
   <!-- Phrases to reveal using mask -->
   <g mask="url(#revealMask)">
