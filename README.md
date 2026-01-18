@@ -27,9 +27,8 @@
 ---
 
 ## 💼 Work Experience
-**Afcons Infrastructure Ltd, Delhi** *(Nov 2021 – May 2024)*  
-- Managed IT & payroll processes using SAP  
-- Optimized onboarding workflows with TCS iON + SAP
+**
+SDE-Intern
 
 ---
 
