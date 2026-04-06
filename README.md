@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 MCA student at **Graphic Era Deemed University** *(2024–2026)*
-- 💼 Spent 3 years at Afcons Infrastructure Ltd handling IT & payroll (SAP wizardry included)
+- 💼 Spent 3 years at Afcons Infrastructure Ltd handling IT & payroll (SAP zwizardry included)
 - 🧠 Into **Problem Solving, DSA, Competitive Programming**
 - 🌱 Currently deep-diving into **Cloud Computing & Machine Learning**
 - ☕ Runs on coffee and curiosity (in that order)
