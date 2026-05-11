@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sumit Singh
 
-### Backend Developer · Node.js · AWS · System Design · DSA Enthusiast
+### Backend Developer · AWS · System Design · DSA Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%7C+AWS;600%2B+DSA+Problems+Solved;Building+Scalable+APIs+%26+Systems;Open+to+SDE+Internships+%26+Full-Time)](https://git.io/typing-svg)
 
